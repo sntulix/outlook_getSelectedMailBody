@@ -2,7 +2,8 @@
 
 ## note
 
-Mail bodies copied has quote """> (begin) and """< (end).
+1. To use, append reference with FM20.dll.
+1. Mail bodies copied has quote """> (begin) and """< (end).
 
 ```
 """>yyyy/mm/dd HH:Mi:SS
